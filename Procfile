@@ -1,1 +1,1 @@
-web: gunicorn <filename>:<main method name>
+web: gunicorn --pythonpath mysite mysite.wsgi
