@@ -1,1 +1,1 @@
-Web gunicorn app:app
+web: gunicorn <filename>:<main method name>
