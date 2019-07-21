@@ -1,2 +1,3 @@
-line-bot-sdk
-guicorn
+line-bot-sdk==1.12.1
+guicorn==2.22.0
+flask
