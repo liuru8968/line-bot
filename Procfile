@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath mysite mysite.wsgi
+web: gunicorn quick_flask:app
